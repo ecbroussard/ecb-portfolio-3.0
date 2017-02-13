@@ -188,6 +188,19 @@ iframe {
  	width: 100%;
  }
 
+ #faveprojects img {
+ 	display: block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ }
+
+ .favelabel {
+ 	font-weight: bold;
+ 	color: #98608c;
+ 	text-align: center;
+ 	margin-bottom: 2vw;
+ }
+
 /*mobile styles*/
 
 @media only screen and (max-width: 1000px) {
