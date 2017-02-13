@@ -28,7 +28,7 @@ a {
 nav ul {
 	list-style-type: none;
 	margin-top: -3.5vw;
-	margin-left: 25vw;
+	margin-left: 22vw;
 }
 
 nav ul li {
@@ -183,3 +183,25 @@ iframe {
  	border-top: .2vw solid #98608c;
  	padding-top: .5vw;
  }
+
+ #portfoliopreview {
+ 	width: 100%;
+ }
+
+/*mobile styles*/
+
+@media only screen and (max-width: 1000px) {
+	#container {
+		width: 100%;
+		padding: 2vw;
+	}
+
+	nav {
+		margin-left: 12vw;
+	} 
+
+	nav a {
+		font-size: 2vw;
+
+	}
+}
