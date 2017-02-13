@@ -178,3 +178,8 @@ iframe {
 	width: 45%;
 	margin-right: 1vw;
  }
+
+ .purpleline {
+ 	border-top: .2vw solid #98608c;
+ 	padding-top: .5vw;
+ }
